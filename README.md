@@ -1,5 +1,4 @@
 # MandalasaBordo
-Portifólio do projeto Mandalas a Bordo
+Portifólio do projeto Mandalas a Bordo em construção.
 
-# tarefas
-O controle das tarefas desse projeto sera realizado no github
+Projeto multicultural e trabalho voluntário.
